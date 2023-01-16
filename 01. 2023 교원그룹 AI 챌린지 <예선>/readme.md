@@ -19,3 +19,5 @@
   NAVER Clova AI가 Github에 공개한 기존 모델들의 benchmark인 Deep-text-recognition-benchmark를 논문과 함께 소개함.
   
   위 benchmark 및 논문에서 제시한 모델의 구조 및 조합을 재구성하여 대회에 참여함.
+  
+  출처 : https://github.com/clovaai/deep-text-recognition-benchmark
